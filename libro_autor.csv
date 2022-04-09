@@ -1,0 +1,6 @@
+id_la,cod_autor,isbn_la,tipo_autor
+1,1,222-2222222-222,principal
+2,2,333-3333333-333,principal
+3,3,111-1111111-111,principal
+4,4,111-1111111-111,coautor
+5,5,444-4444444-444,principal
